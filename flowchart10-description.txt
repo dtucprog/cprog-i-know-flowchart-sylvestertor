@@ -1,0 +1,5 @@
+Its a flowchart of going to school
+It checks if its time to go to school.
+If not relax and output some music.
+Otherwise check the weather.
+Depending on the weather go to school in appropiate clothes
